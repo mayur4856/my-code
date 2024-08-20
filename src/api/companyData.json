@@ -1,0 +1,74 @@
+[
+  {
+    "name": "HTML",
+    "id": "html",
+    "img_url": "http://localhost:5173/images/html-logo.png",
+    "rating": "9.8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "Css",
+    "id": "css",
+    "img_url": "http://localhost:5173/images/css-logo.png",
+    "rating": "8.7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "Javascript",
+    "id": "javascript",
+    "img_url": "http://localhost:5173/images/javascript-logo.png",
+    "rating": "8.2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "React",
+    "id": "react",
+    "img_url": "http://localhost:5173/images/react.svg",
+    "rating": "8.6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "WordPress",
+    "id": "wordpress",
+    "img_url": "http://localhost:5173/images/wordpress-logo.png",
+    "rating": "5.5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "GitHub",
+    "id": "github",
+    "img_url": "http://localhost:5173/images/github-logo.png",
+    "rating": "5.5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "Figma",
+    "id": "figma",
+    "img_url": "http://localhost:5173/images/figma-logo.png",
+    "rating": "8.1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "XD",
+    "id": "XD",
+    "img_url": "http://localhost:5173/images/xd-logo.png",
+    "rating": "8.1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  },
+  {
+    "name": "Photoshop",
+    "id": "Photoshop",
+    "img_url": "http://localhost:5173/images/photoshop-logo.png",
+    "rating": "8.1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "watch_url": "https://www.google.com/"
+  }
+]

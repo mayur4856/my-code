@@ -1,0 +1,22 @@
+/******************** Technologies Css Start ********************/
+.technologies-main{padding:100px 0;width:100%;position:relative;}
+.technologies-list{display:flex;flex-wrap:wrap;gap:40px;}
+.technologies-list .item{width:calc(33.33% - 27px);padding: 30px;}
+.technologies-list .item .thumb{line-height:0;overflow:hidden;text-align:center;border-radius:10px 10px 0 0;margin-bottom: 20px;}
+.technologies-list .item .thumb img{width:220px;height:220px;object-fit:contain;text-align:center;transition:ease .5s all;padding: 20px;}
+.technologies-list .item:hover .thumb img{scale:1.075;}
+.technologies-list .item .infos{width:100%;display:block;}
+.technologies-list .item .infos .raring {color: #BCBCBC;opacity: 0.6;font-size: 16px;font-weight: 700;margin-bottom: 15px;}
+.technologies-list .item .infos .description {margin-bottom: 30px;}
+.technologies-list .item .infos a{display:inline-block;border-radius:30px;padding:15px 18px;box-sizing:border-box;font-size:16px;line-height:1;text-transform:capitalize;font-weight:600;position:relative;transition:all 0.3s linear;color:#fff;background:#323232;position:relative;z-index:11;}
+.technologies-list .item .infos a:hover{background:#fff;color:#000;}
+.technologies-list .item .star-pattern {position: absolute;top:0;right: 20px;opacity: 0.2;transition:all 0.3s linear;}
+.technologies-list .item:hover .star-pattern {opacity: 1;}
+.technologies-list .item .star-pattern img {width: 30px}
+@media screen and (max-width:1023px){
+  .technologies-list .item{width:calc(50% - 27px);}
+}
+@media screen and (max-width:600px){
+  .technologies-list .item{width:100%;}
+}
+/******************** Technologies Css End ********************/
