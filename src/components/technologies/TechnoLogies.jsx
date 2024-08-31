@@ -1,4 +1,4 @@
-import companyData from "../../api/companyData.json";
+import companyData from "../../api/technologiesData.json";
 import { NavLink } from "react-router-dom";
 import "./technologies.css";
 
@@ -11,7 +11,7 @@ const TechnoLogies = () => {
             <ul className="technologies-list">
                 {companyData.map((myElem) => {
                     return (
-                        <li className="item shadow-box" key={myElem.id}>
+                        <li className="item shadow-box" key={myElem.id} data-aos="fade-up">
                             <div className="item-wrap">
                                 <div className="thumb">
                                     <img src={myElem.img_url} alt="placeholder-image" width="100%" height="100%" />
