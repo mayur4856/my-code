@@ -1,5 +1,5 @@
 /******************** Hero Css Start ********************/
-.hero-main{padding:80px 0; width:100%;position:relative; display: none;}
+.hero-main{padding:80px 0; width:100%;position:relative;}
 .hero-main .hero-wrap{display:flex;align-items:center;flex-wrap:wrap;gap:40px;max-width:700px;margin:0 auto;padding:40px;}
 .hero-main .hero-wrap .hero-data{width:calc(50% - 20px);}
 .hero-main .hero-wrap .hero-data .designation{color:#BCBCBC;opacity:0.7;font-size:14px;letter-spacing:0.3px;margin-bottom:3px;font-weight:600;text-transform:uppercase;}
