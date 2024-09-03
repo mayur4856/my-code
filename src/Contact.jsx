@@ -57,7 +57,7 @@ const Contact = () => {
                     <FaYoutube className="icons" />
                   </a>
                 </li>
-              </ul>
+              </ul>    
             </div>
             <div className="contact-wrap shadow-box">
               <h1>Let’s work <span>together.</span></h1>

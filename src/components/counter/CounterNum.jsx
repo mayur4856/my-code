@@ -1,14 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import CountUp from 'react-countup/';
+import React, { useState } from 'react';
+import CountUp from 'react-countup';
 import "./counter.css";
-// import AOS from 'aos';
-// import 'aos/dist/aos.css';
 
 
 const CounterNum = () => {
-    // useEffect(()=> {
-    //     AOS.init({duration:"100", delay:"100"})
-    // },[])
   return (
     <div className="counter-section">
         <div className="counter-wrap container">
@@ -64,5 +59,3 @@ const CounterNum = () => {
 }
 
 export default CounterNum
-
-
