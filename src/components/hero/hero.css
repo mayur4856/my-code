@@ -4,6 +4,7 @@
 .hero-main .hero-wrap .hero-data{width:calc(50% - 20px);}
 .hero-main .hero-wrap .hero-data .designation{color:#BCBCBC;opacity:0.7;font-size:14px;letter-spacing:0.3px;margin-bottom:3px;font-weight:600;text-transform:uppercase;}
 .hero-main .hero-wrap .hero-data h1{font-size:36px;line-height:46px;color:#fff;font-weight:700;margin-bottom:15px;}
+.hero-main .hero-wrap .hero-data h1 span {color: #5b78f6;}
 .hero-main .hero-wrap .hero-data p{color:#9f9f9f;max-width:650px;letter-spacing:0.3px;margin:0;}
 .hero-main .hero-wrap .hero-img{width:calc(50% - 20px);background:linear-gradient(90deg,#3C58E3 -15%,#C2EBFF 58%,#5AB5E2 97%);border-radius:30px;line-height:0;}
 .hero-main .hero-wrap .hero-img img{border-radius:30px;}
