@@ -1,4 +1,4 @@
-import companyData from "../../api/TechnoLogiesData.json";
+import TechnoLogiesData from "../../api/TechnoLogiesData.json";
 import { NavLink } from "react-router-dom";
 import "./technologies.css";
 
@@ -9,7 +9,7 @@ const TechnoLogies = () => {
         <div className="container">
             <h2 className="text-center">Technologies</h2>
             <ul className="technologies-list">
-                {companyData.map((myElem) => {
+                {TechnoLogiesData.map((myElem) => {
                     return (
                         <li className="item shadow-box" data-aos="fade-up" key={myElem.id}>
                             <div className="item-wrap">
